@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/raghvendra06/DSA_Q32/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raghvendra06/DSA_Q32/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/raghvendra06/DSA_Q32/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/raghvendra06/DSA_Q32/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
