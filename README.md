@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/raghvendra06/DSA_Q32/tree/master/0189-rotate-array) |
+| [0835-image-overlap](https://github.com/raghvendra06/DSA_Q32/tree/master/0835-image-overlap) |
 | [3904-smallest-stable-index-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3904-smallest-stable-index-ii) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/raghvendra06/DSA_Q32/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
