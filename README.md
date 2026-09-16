@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/raghvendra06/DSA_Q32/tree/master/0189-rotate-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghvendra06/DSA_Q32/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raghvendra06/DSA_Q32/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -40,9 +41,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghvendra06/DSA_Q32/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/raghvendra06/DSA_Q32/tree/master/0835-image-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghvendra06/DSA_Q32/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghvendra06/DSA_Q32/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
