@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raghvendra06/DSA_Q32/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghvendra06/DSA_Q32/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/raghvendra06/DSA_Q32/tree/master/0189-rotate-array) |
 | [0835-image-overlap](https://github.com/raghvendra06/DSA_Q32/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghvendra06/DSA_Q32/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raghvendra06/DSA_Q32/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3904-smallest-stable-index-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghvendra06/DSA_Q32/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raghvendra06/DSA_Q32/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
