@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raghvendra06/DSA_Q32/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/raghvendra06/DSA_Q32/tree/master/0022-generate-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/raghvendra06/DSA_Q32/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/raghvendra06/DSA_Q32/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghvendra06/DSA_Q32/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raghvendra06/DSA_Q32/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raghvendra06/DSA_Q32/tree/master/0022-generate-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/raghvendra06/DSA_Q32/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/raghvendra06/DSA_Q32/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/raghvendra06/DSA_Q32/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/raghvendra06/DSA_Q32/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
